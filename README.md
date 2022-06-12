@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/swimming-lab">
     <img style="height:180px" src="https://github-readme-stats.vercel.app/api/?username=swimming-lab&layout=compact&hide_border=true&theme=dracula&show_icons=true" />
   </a>
-  <a href="https://github.com/swimming-lab">
+  <!--a href="https://github.com/swimming-lab">
     <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swimming-lab&layout=compact&hide_border=true&theme=dracula&show_icons=true" />
-  </a> 
+  </a--> 
 </div>
